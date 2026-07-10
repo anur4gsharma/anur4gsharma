@@ -36,21 +36,15 @@ I care about writing clean code, understanding systems deeply, and shipping soft
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-## Learning Roadmap
-
-```
-Mathematics for ML ████████░░░░░░░░ in progress
-PyTorch            ██████░░░░░░░░░░ in progress
-Computer Arch.     ████░░░░░░░░░░░░ started
-Backend Dev        ██████░░░░░░░░░░ in progress
-System Design      ██░░░░░░░░░░░░░░ exploring
-```
-
 ## GitHub Stats
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anur4gsharma&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anur4gsharma&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+<p align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=anur4gsharma&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anur4gsharma&theme=github_dark" alt="GitHub Stats" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anur4gsharma&theme=github_dark" alt="Top Languages" />
 </p>
 
 ## Featured Projects
