@@ -6,10 +6,9 @@ i love the feeling of waking up and always have something new to work on.
 
 ## Currently Working On
 
-- Mathematics foundations for Machine Learning (linear algebra, probability, calculus)
-- Learning PyTorch and building neural networks from scratch
-- Computer Architecture fundamentals
+- Learning PyTorch and Scikit-Learn
 - Backend development with Python
+- Exploring System Design
 
 ## Tech Stack
 
