@@ -1,7 +1,6 @@
 # Anurag Sharma
 
-Computer Science student building towards AI/ML engineering and entrepreneurship.  
-I care about writing clean code, understanding systems deeply, and shipping software that solves real problems.
+i love the feeling of waking up and always have something new to work on.
 
 ---
 
@@ -63,5 +62,5 @@ I care about writing clean code, understanding systems deeply, and shipping soft
 
 ---
 
-> Build things that matter. Understand them deeply. Ship them relentlessly.
+> i do it for the love of the game.
 
