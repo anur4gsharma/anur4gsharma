@@ -34,17 +34,6 @@ i love the feeling of waking up and always have something new to work on.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-## GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=anur4gsharma&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anur4gsharma&theme=github_dark" alt="GitHub Stats" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anur4gsharma&theme=github_dark" alt="Top Languages" />
-</p>
-
 ## Featured Projects
 
 | Project | Description | Stack |
