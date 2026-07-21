@@ -4,13 +4,6 @@ i love the feeling of waking up and always have something new to work on.
 
 ---
 
-## Currently Working On
-
-- Learning PyTorch and Scikit-Learn
-- Backend development with Python
-- Exploring System Design
-
-
 ## Featured Projects
 
 | Project | Description | Stack |
