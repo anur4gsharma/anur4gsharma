@@ -1,6 +1,6 @@
 # Anurag Sharma
 
-i love the feeling of waking up and always have something new to work on.
+> i love the feeling of waking up and always having something new to work on.
 
 ---
 
