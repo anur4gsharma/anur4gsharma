@@ -1,6 +1,6 @@
 # Anurag Sharma
 
-> i love the feeling of waking up and always having something new to work on.
+> i love the feeling of waking up and always having something new to work on. i do it for the love of the game.
 
 ---
 
@@ -19,8 +19,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=googlechrome&logoColor=white)](https://anur4gsharma.github.io)
 
 ---
-
-> i do it for the love of the game.
 
 ![Visitors](https://count.getloli.com/get/@anur4gsharma-github-profile?theme=moebooru)
 
