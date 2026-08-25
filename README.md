@@ -22,3 +22,5 @@
 
 > i do it for the love of the game.
 
+![Visitors](https://count.getloli.com/get/@anur4gsharma-github-profile?theme=moebooru)
+
